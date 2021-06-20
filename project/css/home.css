@@ -1,0 +1,229 @@
+section#content {
+    color: white;
+    position: absolute;
+    top: 400px;
+    left: 600px;
+
+}
+
+img#slide {
+    width: 100%;
+    height: auto;
+}
+
+/* Featured Courses Section */
+
+div.course {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 1244px;
+    left: 400px;
+}
+
+div.course2 {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 1244px;
+    left: 850px;
+}
+
+div.course3 {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 1244px;
+    left: 1300px;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+/* Some Statistics Section */
+
+section#about {
+    width: 100%;
+    height: 509px;
+    background: #252525;
+    position: absolute;
+    top: 1800px;
+    left: 0;
+}
+
+div.about {
+	color: white;
+	text-align: center;
+}
+
+div.students {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 250px;
+    border-radius: 15px;
+}
+
+div.reviews {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 600px;
+    border-radius: 15px;
+} 
+
+div.courses {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 951px;
+    border-radius: 15px;
+}
+
+div.content {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 1301px;
+    border-radius: 15px;
+}
+
+.stat:hover {
+    background-color: lightgrey;
+    color: black;
+}
+
+/* Learn Tech Section */
+
+div.learntechnow {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2500px;
+    left: 400px;
+}
+
+div.learntechpodcast {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2500px;
+    left: 850px;
+}
+
+div.learntechblog {
+    width: 400px;
+    height: 500px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2500px;
+    left: 1300px;
+}
+
+.h1lt {
+
+    position: absolute;
+    top: 2320px;
+    left: 614px;
+
+}
+
+button {
+    border-radius: 15px;
+    width: 200px !important;
+}
+
+.radius {
+    border-radius: 15px;
+}
+
+.radius:hover {
+    opacity: 0.7;
+}
+
+/* Footer Section */
+
+footer {
+    text-align: center;
+    width: 100%;
+    height: 120px;
+    background: #172035;
+    position: absolute;
+    top: 3100px;
+    left: 0;
+}
+
+.fa {
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+    padding: 10px;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-telegram {
+    background: #4995BE;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #ff0066;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #0E76A8;
+    color: white;
+  }
+
+p#footer {
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+

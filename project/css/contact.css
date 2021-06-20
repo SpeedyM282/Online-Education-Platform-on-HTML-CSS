@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+}
+
+form{
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  h1{
+    font-size: 32px;
+    padding-top: 56px;
+    padding-bottom: 32px;
+  }  
+/* For Social Media Icons */  
+  .social-icon{
+    width: 50px;
+    height: 50px;
+  }
+  
+  .input-container{
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  
+  input{
+    font-size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    outline: none;
+  }
+  
+  button{
+    background-color: #0056ff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+  }
+/* For  The Word - "Register" */
+  #form-heading{
+    font-size: 32px;
+    padding-top: 56px;
+    padding-bottom: 32px;
+  }
+/* For Container Of Social Media Icons-links */
+  #social-wrapper{
+    background-color: #f2f6ff;
+    padding: 24px;
+  }
+
+  img {
+      margin: 0;
+  }
+  button {
+      border-radius: 15px;  
+      width: 200px !important;
+      cursor: pointer;
+  }
+
+  a:hover {
+    text-decoration: none;
+    background-color: transparent !important;  
+  }
+
+
+footer {
+    width: 100%;
+    height: 120px;
+    background: #172035;
+    position: absolute;
+    top: 1279px;
+    left: 0;
+    text-align: center;
+}
+
+.fa {
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+    padding: 10px;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-telegram {
+    background: #4995BE;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #ff0066;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #0E76A8;
+    color: white;
+  }
+
+
+p#footer {
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
